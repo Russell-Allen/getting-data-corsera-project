@@ -110,3 +110,5 @@ This is the final result table of the analysis.  It contains 2 indexing columns,
 
 The measure columns are named by the original feature label.  However the values are a mean of that feature.
 
+The units of the feature columns remain unchanged from the original data, as they are an average of that data.  See features_info.txt from the original data for an explanation of features and their units.
+
